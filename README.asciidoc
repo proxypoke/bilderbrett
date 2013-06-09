@@ -1,0 +1,8 @@
+Bilderbrett
+===========
+slowpoke <mail+git@slowpoke.io>
+
+Overview
+--------
+Bilderbrett is a simple image board software, written in Python, using Redis
+and Flask.
